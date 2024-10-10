@@ -18,9 +18,7 @@ samples, guidance on mobile development, and a full API reference.
 
 https://raw.githubusercontent.com/DevTides/countries/master/countriesV2.json
 
-
-
-Need to add 
+Added 
 *Api-
 *Data
 *Screens
